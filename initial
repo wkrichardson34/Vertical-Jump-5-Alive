@@ -1,0 +1,6 @@
+echo "# Vertical-Jump-5-Alive" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/wkrichardson34/Vertical-Jump-5-Alive.git
+git push -u origin master
